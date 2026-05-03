@@ -12,7 +12,7 @@ An Android application for Pimp My Deck.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Pimp-my-Deck-Mobile.git](https://github.com/PiisuW/Pimp-my-Deck-Mobile.git)
+   git clone https://github.com/PiisuW/Pimp-my-Deck-Mobile.git
    ```
 2. Open the project in Android Studio.
 3. Sync Gradle and run the `app` module.
