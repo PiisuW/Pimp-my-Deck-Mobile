@@ -23,6 +23,6 @@ An Android application for Pimp My Deck.
 * [Android Jetpack](https://developer.android.com/jetpack) - Component libraries
 
 ## Authors
-* **Antony** - *Initial work*
-* **Simon** - *Initial work*
-* **Bryan** - *Initial work*
+* **Antony**
+* **Simon**
+* **Bryan**
