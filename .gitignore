@@ -1,0 +1,45 @@
+# Gradle files
+.gradle/
+build/
+
+# IntelliJ IDEA files
+.idea/workspace.xml
+.idea/libraries/
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/caches/
+.idea/shelf/
+*.iml
+
+# Android Studio files
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Built variants
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Log files
+*.log
+
+# Keystore files
+*.jks
+*.keystore
+!debug.keystore
+
+# Google Services
+# google-services.json # Uncomment if you use Firebase and want to keep it private
