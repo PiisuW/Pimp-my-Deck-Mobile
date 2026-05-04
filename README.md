@@ -1,6 +1,6 @@
 # Pimp My Deck Mobile
 
-An Android application for Pimp My Deck.
+Une application android pour Pimp My Deck.
 
 ## Getting Started
 
